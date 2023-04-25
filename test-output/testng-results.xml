@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br> <a title = 'ScreenShot' href='C:\Users\Admin\eclipse-workspace\ASSIGNMENT_2_SELENIUM\.\Screenshots\20230318194203_funixExample7.jpg'> <img src='.\Screenshots\20230318194203_funixExample7.jpg' alt='20230318194203_funixExample7.jpg' width='418' height='240'/></a></br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-18T19:39:45 ICT" name="Suite" finished-at="2023-03-18T19:42:03 ICT" duration-ms="138361">
+    <groups>
+    </groups>
+    <test started-at="2023-03-18T19:39:45 ICT" name="Test" finished-at="2023-03-18T19:42:03 ICT" duration-ms="138361">
+      <class name="com.automation.testcase.TC_LoginTest">
+        <test-method is-config="true" signature="initDriverInstance()[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:39:45 ICT" name="initDriverInstance" finished-at="2023-03-18T19:39:47 ICT" duration-ms="1493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriverInstance -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:39:47 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-03-18T19:40:06 ICT" duration-ms="18368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="CaptureAndAttact(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:40:06 ICT" name="CaptureAndAttact" finished-at="2023-03-18T19:40:06 ICT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureAndAttact -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:40:06 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-03-18T19:40:18 ICT" duration-ms="12294" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@13579]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="CaptureAndAttact(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:40:18 ICT" name="CaptureAndAttact" finished-at="2023-03-18T19:40:18 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureAndAttact -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:40:18 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-03-18T19:40:41 ICT" duration-ms="23113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Funix1122]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:40:41 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-03-18T19:40:56 ICT" duration-ms="15470" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Funix1234567]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="CaptureAndAttact(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:40:41 ICT" name="CaptureAndAttact" finished-at="2023-03-18T19:40:41 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureAndAttact -->
+        <test-method is-config="true" signature="CaptureAndAttact(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:40:56 ICT" name="CaptureAndAttact" finished-at="2023-03-18T19:40:56 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureAndAttact -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:40:56 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-03-18T19:41:08 ICT" duration-ms="11939" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample5@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="CaptureAndAttact(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:41:08 ICT" name="CaptureAndAttact" finished-at="2023-03-18T19:41:08 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureAndAttact -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:41:08 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-03-18T19:41:24 ICT" duration-ms="15487" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample6@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="CaptureAndAttact(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:41:24 ICT" name="CaptureAndAttact" finished-at="2023-03-18T19:41:24 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=SUCCESS method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureAndAttact -->
+        <test-method signature="TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:41:24 ICT" name="TC01_LoginFirstAccount" data-provider="Excel" finished-at="2023-03-18T19:42:03 ICT" duration-ms="39140" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[funixExample7@gmail.comn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@111]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='shop-menu pull-right']//a[@href='/logout'] (tried for 30 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='shop-menu pull-right']//a[@href='/logout'] (tried for 30 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at com.automation.testcase.TC_LoginTest.TC01_LoginFirstAccount(TC_LoginTest.java:47)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='shop-menu pull-right']//a[@href='/logout']"}
+  (Session info: chrome=111.0.5563.65)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-5K836TPI', ip: '192.168.101.43', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.65, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 78edb4796449e820e5d3142c86060d53
+*** Element info: {Using=xpath, value=//div[@class='shop-menu pull-right']//a[@href='/logout']}
+at jdk.internal.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 29 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFirstAccount -->
+        <test-method is-config="true" signature="CaptureAndAttact(org.testng.ITestResult)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:42:03 ICT" name="CaptureAndAttact" finished-at="2023-03-18T19:42:03 ICT" duration-ms="182" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_LoginFirstAccount status=FAILURE method=TC_LoginTest.TC01_LoginFirstAccount(java.lang.String,java.lang.String)[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br> <a title = 'ScreenShot' href='C:\Users\Admin\eclipse-workspace\ASSIGNMENT_2_SELENIUM\.\Screenshots\20230318194203_funixExample7.jpg'> <img src='.\Screenshots\20230318194203_funixExample7.jpg' alt='20230318194203_funixExample7.jpg' width='418' height='240'/></a></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CaptureAndAttact -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:com.automation.testcase.TC_LoginTest@7ce69770]" started-at="2023-03-18T19:42:03 ICT" name="closeDriverInstance" finished-at="2023-03-18T19:42:03 ICT" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- com.automation.testcase.TC_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
